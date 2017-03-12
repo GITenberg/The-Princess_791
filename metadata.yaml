@@ -1,5 +1,8 @@
 _repo: The-Princess_791
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tennyson, Alfred Tennyson, Baron
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2987
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Tennyson%2C_1st_Baron_Tennyson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/791#The-Princess
 gutenberg_issued: '1997-01-01'
 gutenberg_type: Text
 identifiers:
